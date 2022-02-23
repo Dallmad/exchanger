@@ -1,0 +1,5 @@
+.body {
+    grid-area: b;
+    background-color: darkslategray;
+    text-align: center;
+}

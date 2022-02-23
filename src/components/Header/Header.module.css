@@ -1,0 +1,6 @@
+.header {
+    grid-area: h;
+    background-color: gold;
+    text-align: center;
+padding-top: 10px;
+}
